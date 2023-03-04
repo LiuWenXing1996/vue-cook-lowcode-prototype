@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../lowcode/index.ts"],
+  "sourcesContent": ["export default () => {\nconsole.log(\"123\")\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,IAAO,kBAAQ,MAAM;AACrB,UAAQ,IAAI,KAAK;AACjB;",
+  "names": []
+}
